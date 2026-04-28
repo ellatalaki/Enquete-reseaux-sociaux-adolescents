@@ -11,7 +11,7 @@ Enquête par sondage menée auprès d'une centaine d'adolescents (collégiens et
 sur l'impact des réseaux sociaux dans 5 dimensions : usage, finances, scolarité, 
 vie sociale et santé mentale.
 
-## Méthodologie
+## Méthodologie 
 
 - **Collecte** : Terrain (questionnaires papier), mars 2025, 11 jours
 - **Échantillon** : ~100 adolescents, 11-18 ans, région de Metz
